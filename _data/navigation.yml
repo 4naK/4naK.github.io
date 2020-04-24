@@ -1,22 +1,18 @@
 # Site navigation links
 
-- title: Kundalini yoga
-  url: /kundaliniyoga/
+
+- title: Blog
+  url: /blog/
     
-- title: Classes
-  url: /classes/
+- title: Articles
+  url: /articles/
   
 - title: FAQ
   url: /faq/
 
 - title: About
   url: /about/
-  
-- title: Articles
-  url: /articles/
 
-- title: Blog
-  url: /blog/
 
 - title: Theme Setup
   url: /theme-setup/
