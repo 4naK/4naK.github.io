@@ -1,9 +1,9 @@
 ---
 title: classes
 layout: collection
-permalink: /Classes/
+permalink: /classes/
 collection: classes
 entries_layout: grid
 ---
 
-Sample document listing for the collection `_classes`
+Sample document listing for the collection `_docs/_classes`
