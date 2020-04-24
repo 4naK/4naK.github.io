@@ -5,7 +5,7 @@ excerpt: "Know more about the teacher"
 modified: 2015-06-08T19:44:38
 image:
   feature: large_mer.JPG
-  credit: Kiwi
+  credit: kiwi
 ---
 
 ![Seva Devprem]({{ site.url }}/images/sevadevprem.JPG)
