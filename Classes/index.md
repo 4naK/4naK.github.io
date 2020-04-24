@@ -1,7 +1,7 @@
 ---
 title: classes
 layout: collection
-permalink: /classes/
+permalink: /Classes/
 collection: classes
 entries_layout: grid
 ---
