@@ -3,6 +3,9 @@ layout: page
 title: Energize your body, clear your mind
 excerpt: "what to except from kundalini yoga & meditation practice"
 search_omit: true
+image:
+  feature: large_mer.JPG
+  credit: Kiwi
 ---
 
 ### Combination of movements and breath
