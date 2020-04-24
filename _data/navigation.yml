@@ -1,5 +1,20 @@
 # Site navigation links
 
+- title: Kundalini yoga
+  url: /kundaliniyoga/
+    
+- title: 1:1 session
+  url: /1to1/
+
+- title: Classes
+  url: /classes/
+  
+- title: FAQ asked
+  url: /faq/
+
+- title: About
+  url: /about/
+  
 - title: Articles
   url: /articles/
 
@@ -12,14 +27,4 @@
 - title: Search
   url: /search/
   
-- title: Kundalini yoga
-  url: /kundaliniyoga/
-    
-- title: 1:1 session
-  url: /1to1/
 
-- title: FAQ asked
-  url: /faq/
-
-- title: About
-  url: /about/
