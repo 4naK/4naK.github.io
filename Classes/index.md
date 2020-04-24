@@ -1,9 +1,9 @@
 ---
-title: Classes
+title: classes
 layout: collection
-permalink: /recipes/
-collection: recipes
+permalink: /classes/
+collection: classes
 entries_layout: grid
 ---
 
-Sample document listing for the collection `_recipes`
+Sample document listing for the collection `Classes`
