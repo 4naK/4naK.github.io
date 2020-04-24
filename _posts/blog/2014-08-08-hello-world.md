@@ -13,7 +13,7 @@ Whatever kundalini yoga class you go to, you will notice that the class structur
 
 ## Links
 
-| Official intitutions | Resources : music, books | teacher association |
+| Official intitutions | Resources : music, books | Teacher's associations |
 |:--------|:-------|:--------|
 | [3HO Europe](https://3ho-europe.org/)   | [Library of teachings](https://www.libraryofteachings.com/)  | [Internation teacher's Association](https://www.ikyta.org/)     |
 | [3HO Foundation](https://www.3ho.org/)  | [Gurbani Media Center](https://www.sikhnet.com/gurbani) | [French Teacher Association](https://ffky.fr/)  
