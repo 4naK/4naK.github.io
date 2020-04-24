@@ -5,7 +5,6 @@ locale: en_US
 description: with Seva Devprem
 logo: ke_logo.png
 url: https://4naK.github.io
-skin: "/assets/css/skins/light.css"
 
 # Jekyll configuration
 
