@@ -5,6 +5,7 @@ locale: en_GB
 description: through breath, movement and sound - with Seva Devprem
 logo: ke_logo.png
 url: https://4naK.github.io
+skin: "/assets/css/skins/default.css"
 
 # Jekyll configuration
 
