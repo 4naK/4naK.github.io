@@ -3,7 +3,7 @@
 title: kundalini experience
 locale: en_US
 description: explore your Self through breath, movement and sound
-logo: site-logo.png
+logo: ke_logo.png
 url: https://4naK.github.io
 
 # Jekyll configuration
@@ -36,18 +36,18 @@ comments: true
 
 # Site owner
 owner:
-  name: Michael Rose
-  avatar: michael-rose-photo.jpg
-  email: michael@mademistakes.com
+  name: Seva Devprem
+  avatar: sevadevprem.jpg
+  email: sevadevprem@outlook.fr
   disqus-shortname: sosimpletheme
-  twitter: mmistakes
-  facebook: michaelrose
-  github: mmistakes
+  twitter: 
+  facebook: kundaexperience
+  github: 
   stackexchange:
   linkedin:
-  instagram: mmistakes
+  instagram: ThirdI_stories
   flickr:
-  tumblr: mademistakes
+  tumblr: 
   pinterest:
   weibo:
   google:
