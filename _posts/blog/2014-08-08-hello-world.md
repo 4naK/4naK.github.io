@@ -13,10 +13,10 @@ Whatever kundalini yoga class you go to, you will notice that the class structur
 
 ## Links
 
-| uidaho.edu | projects | societies |
+| Official intitutions | Resources : music, books | teacher association |
 |:--------|:-------|:--------|
-| [3HO Europe](https://3ho-europe.org/)   | [3HO Foundation](https://www.3ho.org/)   | [Library of teachings](https://www.libraryofteachings.com/)   |
-| [Gurbani Media Center](https://www.sikhnet.com/gurbani)   | [French Teacher Association](https://ffky.fr/)  
-{: .table}
+| [3HO Europe](https://3ho-europe.org/)   | [Library of teachings](https://www.libraryofteachings.com/)  | [Internation teacher's Association](https://www.ikyta.org/)     |
+| [3HO Foundation](https://www.3ho.org/)  | [Gurbani Media Center](https://www.sikhnet.com/gurbani) | [French Teacher Association](https://ffky.fr/)  
+{: .table} 
 
 [^1]: Example: *domain.com/category-name/post-title*
