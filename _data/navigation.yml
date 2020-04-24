@@ -1,6 +1,5 @@
 # Site navigation links
 
-
 - title: kundalini yoga
   url: /kundaliniyoga/
     
@@ -13,9 +12,8 @@
 - title: about
   url: /about/
 
-
-- title: Theme Setup
-  url: /theme-setup/
+- title: Food
+  url: https://www.instagram.com/santosha.cooking/
 
 - title: Search
   url: /search/
