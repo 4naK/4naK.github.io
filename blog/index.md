@@ -1,4 +1,9 @@
-
+---
+layout: page
+title: Energize your body, clear your mind
+excerpt: "what to except from kundalini yoga & meditation practice"
+search_omit: true
+---
 
 ### Combination of movements and breath
 Kundalini yoga is the yoga of consciousness. He was brought from India to the United States in 1969 by Yogi Bhajan, and his practice is multifaceted. It consists of a series of exercises which are a combination of body and hand postures (asana and mudras), chants (mantras), respiratory exercises (pranayama) and meditations. The set of exercises has a particular objective, which can be centered on a part of the body (back, kidneys, lungs, etc.), a system of the body (respiratory, digestive, endrocrine, etc.), or on aspect of the life (vitality, stress, elevation, depression, resistance to disease, etc.).
