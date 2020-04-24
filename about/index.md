@@ -7,7 +7,7 @@ image:
   feature: large_mer.JPG
   credit: Seva Devprem
 ---
-### First encounter with kundalini yoga
+
 ![Seva Devprem]({{ site.url }}/images/sevadevprem.JPG)
 {: .pull-right}
 
