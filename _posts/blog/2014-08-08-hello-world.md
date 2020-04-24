@@ -1,34 +1,22 @@
 ---
-layout: post
-title: "Hello World"
-modified:
-categories: blog
-excerpt:
-tags: []
+layout: page
+title: Where to find information about kundalini yoga practice ?
+excerpt: "some resources"
+modified: 2020-04-24T02:41:00
 image:
-  feature:
-date: 2014-08-08T15:39:55-04:00
-modified: 2016-06-01T14:19:19-04:00
+  feature: large_mer.jpg
+  credit: Seva Devprem
 ---
+# At the european level
 
-You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!
-To add new posts, simply add a file in the `_posts` directory that follows the convention: YYYY-MM-DD-name-of-post.ext.
+Whatever kundalini yoga class you go to, you will notice that the class structure is the same, and that we teach the same kriya (set of exercices). Each one in our own way, but with same instructions. What we teach are kriyas and meditations that were transmitted by Yogi Bhajan from 1969 to 2004.
 
-## Sample Heading
+## Links
 
-### Sample Heading 2
+| uidaho.edu | projects | societies |
+|:--------|:-------|:--------|
+| [3HO Europe](https://3ho-europe.org/)   | [3HO Foundation](https://www.3ho.org/)   | [Library of teachings](https://www.libraryofteachings.com/)   |
+| [Gurbani Media Center](https://www.sikhnet.com/gurbani)   | [French Teacher Association](https://ffky.fr/)  
+{: .table}
 
-Jekyll also offers powerful support for code snippets:
-
-```ruby
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-```
-
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll's GitHub repo][jekyll-gh].
-
-[jekyll-gh]: https://github.com/jekyll/jekyll
-[jekyll]:    http://jekyllrb.com
+[^1]: Example: *domain.com/category-name/post-title*
