@@ -1,26 +1,28 @@
 ---
 layout: page
-title: About the Jekyll Theme
-excerpt: "So Simple is a responsive Jekyll theme for your words and images."
-modified: 2014-08-08T19:44:38.564948-04:00
+title: About Seva Devprem
+excerpt: "Current and former Tank Lab members."
+modified: 2015-06-08T19:44:38
 image:
-  feature: so-simple-sample-image-4.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  feature: large_mer.jpg
+  credit: Seva Devprem
 ---
+### Certified kundalini yoga and meditation teacher
+![Seva Devprem]({{ site.url }}/images/sevadevprem.jpg)
+{: .pull-right}
 
-Looking for a simple, responsive, theme for your Jekyll powered blog? Well look no further. Here be **So Simple Theme**, the follow up to [**Minimal Mistakes**](http://mmistakes.github.io/minimal-mistakes) --- by designer slash illustrator [Michael Rose](http://mademistakes.com).
+Kundalini yoga is the yoga of awareness. I tried this practice for the first time in 2016 and was captivated by it. I loved it because it was meditative (we generally practice with eyes closed), because it invited me to surpassing myself (with total listening of my body’s specificities and limits), and because it included music and mantra chanting.
 
-## So Simple Theme is all about:
+While deepening my practice, I felt calmer and stronger, and more and more connected to my true self. I trained to be a teacher in 2019 (Ik Saran Dhian - School of Sacred Living, France), and I regularly spend time in ashrams where I participate in the community life of those places, through selfless service. It is always a beautiful opportunity for me to meet other yogis, to learn about life experience as a human, about yogic teachings, and about yogic cooking (another of my passions, see my instagram account @santosha.cooking).
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 9+ and all modern browsers.
-* Minimal embellishments and subtle animations.
-* Optional large feature images for posts and pages.
-* [Custom 404 page]({{ site.url }}/404.html) to get you started.
-* [Simple site search](https://github.com/christian-fei/Simple-Jekyll-Search)
-* Support for Disqus Comments
+The tools of kundalini yoga support my transformation and healing, and bring me closer to my potential, with joy and by calmly facing the challenges that come. I have trust  that they can also support your journey, whatever path you are walking on !
 
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install So Simple Theme</a>
+I am grateful for the teachers who brought me kundalini yoga tools. I am also really pleased, passionate, and honoured to be part of the chain of people who transmit these tools now.
 
-[^1]: Example: *domain.com/category-name/post-title*
+In the spirit of service,
+
+Seva Devprem
+
+Find some [vegetarian cooking inspirations](https://www.instagram.com/santosha.cooking/)
+
+Contact me : sevadevprem[at]outlook.fr
